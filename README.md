@@ -1,6 +1,9 @@
 # pyHS100
 Python Library to control TPLink Switch (HS100 / HS110)
 
+# Dependencies
+sudo pip3 install future
+
 # Usage
 
 For all available API functions run ```help(SmartPlug)```
